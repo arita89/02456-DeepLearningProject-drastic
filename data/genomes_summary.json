@@ -1,0 +1,12 @@
+{
+  "GCA_000008865.2_ASM886v2_feature_table.tsv" : "Escherichia coli",
+  "GCA_000009045.1_ASM904v1_feature_table.tsv" : "Bacillus subtilis",
+  "GCA_000027305.1_ASM2730v1_feature_table.tsv" : "Haemophilus influenzae",
+  "GCA_000008525.1_ASM852v1_feature_table.tsv" : "Helicobacter pylori",
+  "GCA_000027325.1_ASM2732v1_feature_table.tsv" : "Mycoplasma genitalium",
+  "GCA_000027345.1_ASM2734v1_feature_table.tsv" : "Mycoplasma pneumoniae",
+  "GCA_000214725.1_ASM21472v1_feature_table.tsv" : "Methanobacterium thermoauthotrophicum",
+  "GCA_003015225.1_ASM301522v1_feature_table.tsv" : "Synechocystis",
+  "GCA_000008665.1_ASM866v1_feature_table.tsv" : "Archaeoglobus fulgidus",
+  "GCA_000091665.1_ASM9166v1_feature_table.tsv" : "Methanocaldococcus jannaschii"
+}

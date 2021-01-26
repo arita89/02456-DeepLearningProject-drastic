@@ -1,0 +1,1045 @@
+# feature	class	assembly	assembly_unit	seq_type	chromosome	genomic_accession	start	end	strand	product_accession	non-redundant_refseq	related_accession	name	symbol	GeneID	locus_tag	feature_interval_length	product_length	attributes
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	686	1828	+					dnaN		MG_001	1143		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	686	1828	+	AAC71217.2			DNA polymerase III, beta subunit	dnaN		MG_001	1143	380	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	1828	2760	+							MG_002	933		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	1828	2760	+	AAC71218.2			DnaJ domain protein			MG_002	933	310	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	2845	4797	+					gyrB		MG_003	1953		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	2845	4797	+	AAC71219.1			DNA gyrase, B subunit	gyrB		MG_003	1953	650	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	4812	7322	+					gyrA		MG_004	2511		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	4812	7322	+	AAC71220.1			DNA gyrase, A subunit	gyrA		MG_004	2511	836	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	7294	8547	+					serS		MG_005	1254		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	7294	8547	+	AAC71221.1			seryl-tRNA synthetase	serS		MG_005	1254	417	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	8551	9183	+					tmk		MG_006	633		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	8551	9183	+	AAC71222.1			thymidylate kinase	tmk		MG_006	633	210	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	9156	9920	+							MG_007	765		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	9156	9920	+	AAC71223.1			DNA polymerase III delta prime subunit, putative			MG_007	765	254	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	9923	11251	+							MG_008	1329		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	9923	11251	+	AAC71224.1			tRNA modification GTPase TrmE			MG_008	1329	442	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	11251	12039	+							MG_009	789		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	11251	12039	+	AAC71225.1			deoxyribonuclease, TatD family, putative			MG_009	789	262	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	12068	12724	+							MG_010	657		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	12068	12724	+	AAC71226.1			DNA primase-related protein			MG_010	657	218	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	12701	13564	-							MG_011	864		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	12701	13564	-	AAC71227.1			conserved hypothetical protein			MG_011	864	287	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	13569	14432	-							MG_012	864		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	13569	14432	-	AAC71228.1			alpha-L-glutamate ligases, RimK family, putative			MG_012	864	287	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	14395	15216	-					folD		MG_013	822		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	14395	15216	-	AAC71229.2			methylenetetrahydrofolate dehydrogenase/methylenetetrahydrofolate cyclohydrolase	folD		MG_013	822	273	
+gene	tRNA	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	15294	15369	-							MG_471	76		
+tRNA		GCA_000027325.1	Primary Assembly	chromosome		L43967.2	15294	15369	-				tRNA-Ala			MG_471	76		
+gene	tRNA	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	15375	15451	-							MG_472	77		
+tRNA		GCA_000027325.1	Primary Assembly	chromosome		L43967.2	15375	15451	-				tRNA-Ile			MG_472	77		
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	15555	17426	+							MG_014	1872		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	15555	17426	+	AAC71230.1			ABC transporter, ATP-binding/permease protein			MG_014	1872	623	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	17473	19242	+							MG_015	1770		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	17473	19242	+	AAC71231.1			ABC transporter, ATP-binding/permease protein			MG_015	1770	589	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	19252	22347	+							MG_018	3096		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	19252	22347	+	AAC71234.2			helicase SNF2 family, putative			MG_018	3096	1031	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	22389	23558	+					dnaJ		MG_019	1170		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	22389	23558	+	AAC71235.1			chaperone protein DnaJ	dnaJ		MG_019	1170	389	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	23542	24468	+					pip		MG_020	927		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	23542	24468	+	AAC71236.1			proline iminopeptidase	pip		MG_020	927	308	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	24468	26006	+					metG		MG_021	1539		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	24468	26006	+	AAC71237.1			methionyl-tRNA synthetase	metG		MG_021	1539	512	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	26036	26473	+							MG_022	438		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	26036	26473	+	AAC71238.1			DNA-directed RNA polymerase, delta subunit			MG_022	438	145	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	26479	27345	+					fba		MG_023	867		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	26479	27345	+	AAC71239.1			fructose-1,6-bisphosphate aldolase, class II	fba		MG_023	867	288	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	27346	28449	+					ychF		MG_024	1104		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	27346	28449	+	AAC71240.1			GTP-binding protein YchF	ychF		MG_024	1104	367	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	28652	29548	+							MG_025	897		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	28652	29548	+	AAC71241.1			glycosyl transferase, group 2 family protein			MG_025	897	298	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	29552	30124	+					efp		MG_026	573		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	29552	30124	+	AAC71242.1			translation elongation factor P	efp		MG_026	573	190	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	30093	30548	+					nusB		MG_027	456		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	30093	30548	+	AAC71243.1			transcription termination/antitermination protein NusB	nusB		MG_027	456	151	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	30548	31153	+							MG_028	606		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	30548	31153	+	AAC71244.1			conserved hypothetical protein			MG_028	606	201	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	31143	31703	-							MG_029	561		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	31143	31703	-	AAC71245.1			DJ-1/PfpI family protein			MG_029	561	186	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	31705	32325	-					upp		MG_030	621		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	31705	32325	-	AAC71246.1			uracil phosphoribosyltransferase	upp		MG_030	621	206	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	32359	36714	-					polC		MG_031	4356		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	32359	36714	-	AAC71247.1			DNA polymerase III, alpha subunit, Gram-positive type	polC		MG_031	4356	1451	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	36977	38977	+							MG_032	2001		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	36977	38977	+	AAC71248.1			conserved hypothetical protein			MG_032	2001	666	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	39127	39903	+					glpF		MG_033	777		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	39127	39903	+	AAC71249.1			glycerol uptake facilitator	glpF		MG_033	777	258	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	39872	40513	-					tdk		MG_034	642		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	39872	40513	-	AAC71250.1			thymidine kinase	tdk		MG_034	642	213	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	40542	41786	+					hisS		MG_035	1245		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	40542	41786	+	AAC71251.1			histidyl-tRNA synthetase	hisS		MG_035	1245	414	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	41776	43428	+					aspS		MG_036	1653		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	41776	43428	+	AAC71252.1			aspartyl-tRNA synthetase	aspS		MG_036	1653	550	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	43401	44753	+							MG_037	1353		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	43401	44753	+	AAC71253.1			nicotinate phosphoribosyltransferase (NAPRTase) family			MG_037	1353	450	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	44750	46276	-					glpK		MG_038	1527		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	44750	46276	-	AAC71254.1			glycerol kinase	glpK		MG_038	1527	508	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	46267	47421	-							MG_039	1155		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	46267	47421	-	AAC71255.1			FAD-dependent glycerol-3-phosphate dehydrogenase, putative			MG_039	1155	384	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	47580	49355	+							MG_040	1776		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	47580	49355	+	AAC71256.1			lipoprotein, putative			MG_040	1776	591	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	49376	49642	+							MG_041	267		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	49376	49642	+	AAC71257.1			phosphocarrier protein HPr			MG_041	267	88	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	49840	51519	+							MG_042	1680		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	49840	51519	+	AAC71258.1			spermidine/putrescine ABC transporter, ATP-binding protein, putative			MG_042	1680	559	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	51524	52381	+							MG_043	858		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	51524	52381	+	AAC71259.1			spermidine/putrescine ABC transporter, permease protein, putative			MG_043	858	285	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	52365	53219	+							MG_044	855		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	52365	53219	+	AAC71260.1			spermidine/putrescine ABC transporter, permease protein, putative			MG_044	855	284	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	53204	54655	+							MG_045	1452		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	53204	54655	+	AAC71261.1			spermidine/putrescine ABC transporter, spermidine/putrescine binding protein, putative			MG_045	1452	483	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	54657	55604	+							MG_046	948		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	54657	55604	+	AAC71262.1			metalloendopeptidase, putative, glycoprotease family			MG_046	948	315	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	55588	56739	+					metK		MG_047	1152		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	55588	56739	+	AAC71263.1			S-adenosylmethionine synthetase	metK		MG_047	1152	383	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	56969	58309	-					ffh		MG_048	1341		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	56969	58309	-	AAC71264.1			signal recognition particle protein	ffh		MG_048	1341	446	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	58362	59078	+					deoD		MG_049	717		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	58362	59078	+	AAC71265.2			purine nucleoside phosphorylase	deoD		MG_049	717	238	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	59082	59753	+					deoC		MG_050	672		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	59082	59753	+	AAC71266.1			deoxyribose-phosphate aldolase	deoC		MG_050	672	223	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	59740	61005	+					pdp		MG_051	1266		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	59740	61005	+	AAC71267.1			pyrimidine-nucleoside phosphorylase	pdp		MG_051	1266	421	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	61014	61406	+							MG_052	393		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	61014	61406	+	AAC71268.1			cytidine deaminase			MG_052	393	130	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	61406	63058	+							MG_053	1653		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	61406	63058	+	AAC71269.1			phosphoglucomutase/phosphomannomutase, putative			MG_053	1653	550	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	63035	63985	-							MG_054	951		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	63035	63985	-	AAC71270.1			transcription antitermination protein NusG, putative			MG_054	951	316	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	63989	64360	-							MG_055	372		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	63989	64360	-	AAC71271.1			preprotein translocase, SecE subunit			MG_055	372	123	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	64367	64513	-					rpmG-2		MG_473	147		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	64367	64513	-	AAC71272.1			ribosomal protein L33 type 2	rpmG-2		MG_473	147	48	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	64527	64910	-							MG_474	384		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	64527	64910	-	AAC71281.1			conserved hypothetical protein			MG_474	384	127	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	64897	65730	-							MG_056	834		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	64897	65730	-	AAC71273.1			tetrapyrrole (corrin/porphyrin) methylase protein			MG_056	834	277	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	65712	66248	-							MG_057	537		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	65712	66248	-	AAC71274.1			small primase-like protein			MG_057	537	178	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	66227	67225	-					prs		MG_058	999		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	66227	67225	-	AAC71275.2			ribose-phosphate pyrophosphokinase	prs		MG_058	999	332	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	67206	67643	-					smpB		MG_059	438		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	67206	67643	-	AAC71276.1			SsrA-binding protein	smpB		MG_059	438	145	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	67650	68543	+							MG_060	894		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	67650	68543	+	AAC71277.1			glycosyl transferase, group 2 family protein			MG_060	894	297	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	68522	70225	-							MG_061	1704		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	68522	70225	-	AAC71278.2			Mycoplasma MFS transporter			MG_061	1704	567	
+gene	tRNA	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	70393	70481	-							MG_475	89		
+tRNA		GCA_000027325.1	Primary Assembly	chromosome		L43967.2	70393	70481	-				tRNA-Ser			MG_475	89		
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	70530	72572	+					fruA		MG_062	2043		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	70530	72572	+	AAC71279.1			PTS system, fructose-specific IIABC component	fruA		MG_062	2043	680	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	72523	73434	+					fruK		MG_063	912		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	72523	73434	+	AAC71280.2			1-phosphofructokinase, putative	fruK		MG_063	912	303	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	73690	77685	+							MG_064	3996		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	73690	77685	+	AAC71282.1			ABC transporter, permease protein, putative			MG_064	3996	1331	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	77685	79085	+							MG_065	1401		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	77685	79085	+	AAC71283.1			ABC transporter, ATP-binding protein			MG_065	1401	466	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	79089	81035	+					tkt		MG_066	1947		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	79089	81035	+	AAC71284.1			transketolase	tkt		MG_066	1947	648	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	81046	82596	+							MG_067	1551		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	81046	82596	+	AAC71285.1			lipoprotein, putative			MG_067	1551	516	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	82620	84044	+							MG_068	1425		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	82620	84044	+	AAC71286.1			lipoprotein, putative			MG_068	1425	474	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	88228	90954	+					ptsG		MG_069	2727		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	88228	90954	+	AAC71287.1			PTS system, glucose-specific IIABC component	ptsG		MG_069	2727	908	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	91065	91919	+					rpsB		MG_070	855		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	91065	91919	+	AAC71288.1			ribosomal protein S2	rpsB		MG_070	855	284	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	91924	94548	+							MG_071	2625		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	91924	94548	+	AAC71289.1			ATPase, P-type (transporting), HAD superfamily, subfamily IC			MG_071	2625	874	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	94535	96955	+					secA		MG_072	2421		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	94535	96955	+	AAC71290.1			preprotein translocase, SecA subunit	secA		MG_072	2421	806	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	96933	98903	+					uvrB		MG_073	1971		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	96933	98903	+	AAC71291.1			excinuclease ABC, B subunit	uvrB		MG_073	1971	656	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	98906	99319	+							MG_074	414		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	98906	99319	+	AAC71292.1			conserved hypothetical protein			MG_074	414	137	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	99383	102457	+							MG_075	3075		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	99383	102457	+	AAC71293.1			116 kDa surface antigen			MG_075	3075	1024	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	102454	102870	-							MG_076	417		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	102454	102870	-	AAC71294.1			conserved hypothetical protein			MG_076	417	138	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	103104	104327	+							MG_077	1224		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	103104	104327	+	AAC71295.1			oligopeptide ABC transporter, permease protein (OppB)			MG_077	1224	407	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	104320	105450	+							MG_078	1131		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	104320	105450	+	AAC71296.1			oligopeptide ABC transporter, permease protein (OppC)			MG_078	1131	376	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	105452	106660	+					oppD		MG_079	1209		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	105452	106660	+	AAC71297.1			oligopeptide ABC transporter, ATP-binding protein	oppD		MG_079	1209	402	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	106660	109206	+					oppF		MG_080	2547		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	106660	109206	+	AAC71298.1			oligopeptide ABC transporter, ATP-binding protein	oppF		MG_080	2547	848	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	109262	109675	+					rplK		MG_081	414		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	109262	109675	+	AAC71299.1			ribosomal protein L11	rplK		MG_081	414	137	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	109675	110355	+					rplA		MG_082	681		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	109675	110355	+	AAC71300.1			ribosomal protein L1	rplA		MG_082	681	226	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	110355	110924	+					pth		MG_083	570		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	110355	110924	+	AAC71301.1			peptidyl-tRNA hydrolase	pth		MG_083	570	189	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	110917	111789	+							MG_084	873		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	110917	111789	+	AAC71302.1			tRNA(Ile)-lysidine synthetase			MG_084	873	290	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	111790	112725	+					hprK		MG_085	936		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	111790	112725	+	AAC71303.1			HPr(Ser) kinase/phosphatase	hprK		MG_085	936	311	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	112718	113866	+							MG_086	1149		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	112718	113866	+	AAC71304.1			prolipoprotein diacylglyceryl transferase			MG_086	1149	382	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	113895	114314	+					rpsL		MG_087	420		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	113895	114314	+	AAC71305.1			ribosomal protein S12	rpsL		MG_087	420	139	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	114331	114798	+					rpsG		MG_088	468		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	114331	114798	+	AAC71306.1			ribosomal protein S7	rpsG		MG_088	468	155	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	114808	116874	+					fusA		MG_089	2067		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	114808	116874	+	AAC71307.1			translation elongation factor G	fusA		MG_089	2067	688	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	116926	117552	+							MG_090	627		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	116926	117552	+	AAC71308.1			ribosomal protein S6			MG_090	627	208	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	117553	118035	+							MG_091	483		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	117553	118035	+	AAC71309.1			single-strand binding protein family			MG_091	483	160	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	118025	118342	+					rpsR		MG_092	318		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	118025	118342	+	AAC71310.1			ribosomal protein S18	rpsR		MG_092	318	105	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	118345	118797	+							MG_093	453		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	118345	118797	+	AAC71311.1			ribosomal protein L9			MG_093	453	150	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	118781	120187	+					dnaB		MG_094	1407		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	118781	120187	+	AAC71312.2			replicative DNA helicase	dnaB		MG_094	1407	468	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	120191	121387	+							MG_095	1197		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	120191	121387	+	AAC71313.1			lipoprotein, putative			MG_095	1197	398	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	121571	123523	+							MG_096	1953		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	121571	123523	+	AAC71314.1			conserved hypothetical protein			MG_096	1953	650	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	123580	124317	+							MG_097	738		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	123580	124317	+	AAC71315.1			uracil-DNA glycosylase, putative			MG_097	738	245	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	124417	125850	+							MG_098	1434		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	124417	125850	+	AAC71316.1			glutamyl-tRNA(Gln) and/or aspartyl-tRNA(Asn) amidotransferase, C subunit			MG_098	1434	477	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	125853	127286	+							MG_099	1434		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	125853	127286	+	AAC71317.1			glutamyl-tRNA(Gln) and/or aspartyl-tRNA(Asn) amidotransferase, A subunit			MG_099	1434	477	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	127279	128712	+					gatB		MG_100	1434		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	127279	128712	+	AAC71318.1			glutamyl-tRNA(Gln) and/or aspartyl-tRNA(Asn) amidotransferase, B subunit	gatB		MG_100	1434	477	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	128687	129355	+							MG_101	669		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	128687	129355	+	AAC71319.1			conserved hypothetical protein			MG_101	669	222	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	129348	130295	+					trxB		MG_102	948		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	129348	130295	+	AAC71320.1			thioredoxin-disulfide reductase	trxB		MG_102	948	315	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	130285	131127	+							MG_103	843		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	130285	131127	+	AAC71321.1			conserved hypothetical protein			MG_103	843	280	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	131149	131382	+							MG_476	234		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	131149	131382	+	ABC59632.1			Hypothetical protein			MG_476	234	77	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	131385	133562	+							MG_104	2178		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	131385	133562	+	AAC71322.1			ribonuclease R			MG_104	2178	725	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	133570	134172	+							MG_105	603		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	133570	134172	+	AAC71323.2			conserved hypothetical protein			MG_105	603	200	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	134147	134728	-					def		MG_106	582		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	134147	134728	-	AAC71324.2			peptide deformylase	def		MG_106	582	193	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	134769	135338	+					gmk		MG_107	570		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	134769	135338	+	AAC71325.1			guanylate kinase	gmk		MG_107	570	189	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	135338	136120	+							MG_108	783		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	135338	136120	+	AAC71326.1			protein phosphatase 2C, putative			MG_108	783	260	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	136105	137268	+							MG_109	1164		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	136105	137268	+	AAC71327.2			serine/threonine protein kinase, putative			MG_109	1164	387	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	137255	138091	+					rsgA		MG_110	837		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	137255	138091	+	AAC71328.1			ribosome small subunit-dependent GTPase A	rsgA		MG_110	837	278	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	138106	139407	+					pgi		MG_111	1302		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	138106	139407	+	AAC71329.1			glucose-6-phosphate isomerase	pgi		MG_111	1302	433	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	139397	140026	+					rpe		MG_112	630		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	139397	140026	+	AAC71330.1			ribulose-phosphate 3-epimerase	rpe		MG_112	630	209	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	140040	141410	+					asnS		MG_113	1371		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	140040	141410	+	AAC71331.1			asparaginyl-tRNA synthetase	asnS		MG_113	1371	456	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	141346	142056	+							MG_114	711		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	141346	142056	+	AAC71332.1			CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase			MG_114	711	236	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	142081	142554	+							MG_115	474		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	142081	142554	+	AAC71333.1			competence/damage-inducible protein CinA domain protein			MG_115	474	157	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	142563	143318	+							MG_116	756		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	142563	143318	+	AAC71334.1			conserved hypothetical protein			MG_116	756	251	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	143311	143955	+							MG_117	645		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	143311	143955	+	AAC71335.1			conserved hypothetical protein			MG_117	645	214	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	143936	144958	+					galE		MG_118	1023		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	143936	144958	+	AAC71336.1			UDP-glucose 4-epimerase	galE		MG_118	1023	340	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	144973	146667	+							MG_119	1695		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	144973	146667	+	AAC71337.1			ABC transporter, ATP-binding protein			MG_119	1695	564	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	146674	148236	+							MG_120	1563		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	146674	148236	+	AAC71338.1			ABC transporter, permease protein			MG_120	1563	520	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	148239	149159	+							MG_121	921		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	148239	149159	+	AAC71339.1			ABC transporter, permease protein			MG_121	921	306	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	149199	151328	+					topA		MG_122	2130		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	149199	151328	+	AAC71340.1			DNA topoisomerase I	topA		MG_122	2130	709	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	151306	152721	+							MG_123	1416		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	151306	152721	+	AAC71341.1			conserved hypothetical protein			MG_123	1416	471	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	152768	153076	+					trx		MG_124	309		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	152768	153076	+	AAC71342.1			thioredoxin	trx		MG_124	309	102	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	153082	153939	+							MG_125	858		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	153082	153939	+	AAC71343.1			Cof-like hydrolase, putative			MG_125	858	285	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	153920	154963	-					trpS		MG_126	1044		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	153920	154963	-	AAC71344.1			tryptophanyl-tRNA synthetase	trpS		MG_126	1044	347	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	154999	155436	+							MG_127	438		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	154999	155436	+	AAC71345.1			Spx subfamily protein			MG_127	438	145	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	155444	156223	+							MG_128	780		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	155444	156223	+	AAC71346.1			inorganic polyphosphate/ATP-NAD kinase, probable			MG_128	780	259	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	156223	156576	+							MG_129	354		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	156223	156576	+	AAC71347.1			conserved hypothetical protein			MG_129	354	117	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	156566	158020	+							MG_130	1455		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	156566	158020	+	AAC71348.1			uncharacterized domain HDIG			MG_130	1455	484	
+gene	pseudogene	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	158023	158309	+							MG_131	287		pseudo
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	158581	159006	-							MG_132	426		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	158581	159006	-	AAC71349.1			HIT domain protein			MG_132	426	141	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	158984	159778	-							MG_133	795		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	158984	159778	-	AAC71350.2			membrane protein, putative			MG_133	795	264	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	159798	160100	+							MG_134	303		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	159798	160100	+	AAC71351.1			conserved hypothetical protein			MG_134	303	100	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	160072	160914	-							MG_135	843		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	160072	160914	-	AAC71352.1			membrane protein, putative			MG_135	843	280	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	160963	162435	+					lysS		MG_136	1473		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	160963	162435	+	AAC71353.1			lysyl-tRNA synthetase	lysS		MG_136	1473	490	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	162377	163591	+							MG_137	1215		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	162377	163591	+	AAC71354.1			UDP-galactopyranose mutase			MG_137	1215	404	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	163591	165387	+					lepA		MG_138	1797		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	163591	165387	+	AAC71355.1			GTP-binding protein LepA	lepA		MG_138	1797	598	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	165471	167180	+							MG_139	1710		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	165471	167180	+	AAC71357.1			metallo-beta-lactamase superfamily protein			MG_139	1710	569	
+gene	rRNA	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	170007	171525	+					rrsA		MG_rrnA16S	1519		
+rRNA		GCA_000027325.1	Primary Assembly	chromosome		L43967.2	170007	171525	+				16S ribosomal RNA	rrsA		MG_rrnA16S	1519		
+gene	rRNA	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	171728	174461	+					rrlA		MG_rrnA23S	2734		
+rRNA		GCA_000027325.1	Primary Assembly	chromosome		L43967.2	171728	174461	+				23S ribosomal RNA	rrlA		MG_rrnA23S	2734		
+gene	rRNA	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	174690	174793	+					rrfA		MG_rrnA5S	104		
+rRNA		GCA_000027325.1	Primary Assembly	chromosome		L43967.2	174690	174793	+				5S ribosomal RNA	rrfA		MG_rrnA5S	104		
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	175805	179146	+							MG_140	3342		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	175805	179146	+	AAC71358.1			conserved hypothetical protein			MG_140	3342	1113	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	179151	180746	+					nusA		MG_141	1596		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	179151	180746	+	AAC71359.1			transcription termination factor NusA	nusA		MG_141	1596	531	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	180746	181018	+							MG_477	273		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	180746	181018	+	ABC59633.1			conserved hypothetical protein			MG_477	273	90	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	181005	182864	+					infB		MG_142	1860		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	181005	182864	+	AAC71360.1			translation initiation factor IF-2	infB		MG_142	1860	619	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	182851	183189	+					rbfA		MG_143	339		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	182851	183189	+	AAC71361.1			ribosome-binding factor A	rbfA		MG_143	339	112	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	183214	184053	+							MG_144	840		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	183214	184053	+	AAC71362.1			conserved hypothetical protein			MG_144	840	279	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	184053	184862	+					ribF		MG_145	810		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	184053	184862	+	AAC71363.1			riboflavin biosynthesis protein RibF	ribF		MG_145	810	269	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	184875	186149	+							MG_146	1275		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	184875	186149	+	AAC71364.1			conserved hypothetical protein			MG_146	1275	424	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	186136	187263	+							MG_147	1128		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	186136	187263	+	AAC71365.2			membrane protein, putative			MG_147	1128	375	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	187302	188531	+							MG_148	1230		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	187302	188531	+	AAC71366.1			conserved hypothetical protein			MG_148	1230	409	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	188607	189452	+							MG_149	846		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	188607	189452	+	AAC71367.1			lipoprotein, putative			MG_149	846	281	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	189492	189956	+							MG_478	465		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	189492	189956	+	AAC71392.2			conserved hypothetical protein			MG_478	465	154	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	190046	190366	+					rpsJ		MG_150	321		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	190046	190366	+	AAC71368.1			ribosomal protein S10	rpsJ		MG_150	321	106	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	190370	191143	+					rplC		MG_151	774		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	190370	191143	+	AAC71369.1			ribosomal protein L3	rplC		MG_151	774	257	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	191143	191778	+					rplD		MG_152	636		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	191143	191778	+	AAC71370.1			ribosomal protein L4/L1 family	rplD		MG_152	636	211	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	191782	192102	+					rplW		MG_153	321		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	191782	192102	+	AAC71371.1			ribosomal protein L23	rplW		MG_153	321	106	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	192102	192959	+					rplB		MG_154	858		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	192102	192959	+	AAC71372.1			ribosomal protein L2	rplB		MG_154	858	285	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	192959	193222	+					rpsS		MG_155	264		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	192959	193222	+	AAC71373.1			ribosomal protein S19	rpsS		MG_155	264	87	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	193225	193659	+					rplV		MG_156	435		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	193225	193659	+	AAC71374.1			ribosomal protein L22	rplV		MG_156	435	144	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	193662	194468	+					rpsC		MG_157	807		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	193662	194468	+	AAC71375.1			ribosomal protein S3	rpsC		MG_157	807	268	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	194474	194890	+					rplP		MG_158	417		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	194474	194890	+	AAC71376.1			ribosomal protein L16	rplP		MG_158	417	138	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	194890	195492	+					rpmC		MG_159	603		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	194890	195492	+	AAC71377.1			ribosomal protein L29	rpmC		MG_159	603	200	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	195492	195749	+					rpsQ		MG_160	258		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	195492	195749	+	AAC71378.1			ribosomal protein S17	rpsQ		MG_160	258	85	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	195753	196121	+					rplN		MG_161	369		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	195753	196121	+	AAC71379.1			ribosomal protein L14	rplN		MG_161	369	122	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	196121	196447	+					rplX		MG_162	327		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	196121	196447	+	AAC71380.1			ribosomal protein L24	rplX		MG_162	327	108	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	196453	196995	+					rplE		MG_163	543		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	196453	196995	+	AAC71381.1			ribosomal protein L5	rplE		MG_163	543	180	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	196998	197183	+					rpsN		MG_164	186		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	196998	197183	+	AAC71382.1			ribosomal protein S14	rpsN		MG_164	186	61	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	197177	197602	+					rpsH		MG_165	426		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	197177	197602	+	AAC71383.1			ribosomal protein S8	rpsH		MG_165	426	141	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	197609	198163	+					rplF		MG_166	555		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	197609	198163	+	AAC71384.1			ribosomal protein L6	rplF		MG_166	555	184	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	198165	198512	+					rplR		MG_167	348		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	198165	198512	+	AAC71385.1			ribosomal protein L18	rplR		MG_167	348	115	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	198517	199152	+					rpsE		MG_168	636		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	198517	199152	+	AAC71386.1			ribosomal protein S5	rpsE		MG_168	636	211	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	199158	199610	+					rplO		MG_169	453		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	199158	199610	+	AAC71387.1			ribosomal protein L15	rplO		MG_169	453	150	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	199610	201037	+					secY		MG_170	1428		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	199610	201037	+	AAC71388.1			preprotein translocase, SecY subunit	secY		MG_170	1428	475	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	201031	201675	+					adk		MG_171	645		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	201031	201675	+	AAC71389.1			adenylate kinase	adk		MG_171	645	214	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	201678	202424	+					map		MG_172	747		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	201678	202424	+	AAC71390.1			methionine aminopeptidase, type I	map		MG_172	747	248	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	202424	202636	+					infA		MG_173	213		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	202424	202636	+	AAC71391.1			translation initiation factor IF-1	infA		MG_173	213	70	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	202647	202760	+					rpmJ		MG_174	114		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	202647	202760	+	AAC71393.1			ribosomal protein L36	rpmJ		MG_174	114	37	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	202760	203134	+					rpsM		MG_175	375		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	202760	203134	+	AAC71394.1			ribosomal protein S13	rpsM		MG_175	375	124	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	203134	203499	+					rpsK		MG_176	366		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	203134	203499	+	AAC71395.2			ribosomal protein S11	rpsK		MG_176	366	121	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	203515	204501	+					rpoA		MG_177	987		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	203515	204501	+	AAC71396.1			DNA-directed RNA polymerase, alpha subunit	rpoA		MG_177	987	328	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	204514	204885	+					rplQ		MG_178	372		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	204514	204885	+	AAC71397.1			ribosomal protein L17	rplQ		MG_178	372	123	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	204872	205696	+							MG_179	825		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	204872	205696	+	AAC71398.1			metal ion ABC transporter, ATP-binding protein, putative			MG_179	825	274	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	205681	206595	+							MG_180	915		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	205681	206595	+	AAC71399.1			metal ion ABC transporter ATP-binding protein, putative			MG_180	915	304	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	206588	207850	+							MG_181	1263		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	206588	207850	+	AAC71400.1			metal ion ABC transporter, permease protein			MG_181	1263	420	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	207843	208577	+							MG_182	735		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	207843	208577	+	AAC71401.1			tRNA pseudouridine synthase A			MG_182	735	244	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	208567	210390	+							MG_183	1824		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	208567	210390	+	AAC71402.1			oligoendopeptidase F			MG_183	1824	607	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	210391	211344	+							MG_184	954		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	210391	211344	+	AAC71403.1			adenine-specific DNA modification methylase			MG_184	954	317	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	211444	213549	+							MG_185	2106		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	211444	213549	+	AAC71404.1			lipoprotein, putative			MG_185	2106	701	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	216016	216768	+							MG_186	753		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	216016	216768	+	AAC71405.1			Staphylococcal nuclease homologue, putative			MG_186	753	250	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	216761	218518	+							MG_187	1758		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	216761	218518	+	AAC71406.1			ABC transporter, ATP-binding protein			MG_187	1758	585	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	218521	219510	+							MG_188	990		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	218521	219510	+	AAC71407.1			ABC transporter, permease protein			MG_188	990	329	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	219482	220438	+							MG_189	957		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	219482	220438	+	AAC71408.2			ABC transporter, permease protein			MG_189	957	318	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	220607	221563	+							MG_190	957		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	220607	221563	+	AAC71409.2			phosphoesterase, DHH subfamily 1			MG_190	957	318	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	221570	225904	+					mgpA		MG_191	4335		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	221570	225904	+	AAC71410.1			MgPa adhesin	mgpA		MG_191	4335	1444	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	225906	229067	+					p110		MG_192	3162		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	225906	229067	+	AAC71411.2			P110 protein	p110		MG_192	3162	1053	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	232009	233034	+					pheS		MG_194	1026		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	232009	233034	+	AAC71412.1			phenylalanyl-tRNA synthetase, alpha subunit	pheS		MG_194	1026	341	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	233038	235458	+							MG_195	2421		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	233038	235458	+	AAC71413.1			phenylalanyl-tRNA synthetase, beta subunit			MG_195	2421	806	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	235517	236062	+					infC		MG_196	546		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	235517	236062	+	AAC71414.1			translation initiation factor IF-3	infC		MG_196	546	181	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	236065	236244	+					rpmI		MG_197	180		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	236065	236244	+	AAC71415.1			ribosomal protein L35	rpmI		MG_197	180	59	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	236247	236621	+					rplT		MG_198	375		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	236247	236621	+	AAC71416.1			ribosomal protein L20	rplT		MG_198	375	124	
+gene	pseudogene	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	236593	237300	-					rnhC		MG_199	708		pseudo
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	237347	239152	+							MG_200	1806		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	237347	239152	+	AAC71418.1			DnaJ domain protein			MG_200	1806	601	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	239164	239817	+							MG_201	654		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	239164	239817	+	AAC71419.1			co-chaperone GrpE			MG_201	654	217	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	239827	240195	+							MG_202	369		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	239827	240195	+	AAC71420.1			conserved hypothetical protein			MG_202	369	122	
+gene	tRNA	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	240213	240286	-							MG_479	74		
+tRNA		GCA_000027325.1	Primary Assembly	chromosome		L43967.2	240213	240286	-				tRNA-Thr			MG_479	74		
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	240323	242224	+					parE		MG_203	1902		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	240323	242224	+	AAC71421.1			DNA topoisomerase IV, B subunit	parE		MG_203	1902	633	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	242224	244569	+					parC		MG_204	2346		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	242224	244569	+	AAC71422.1			DNA topoisomerase IV, A subunit	parC		MG_204	2346	781	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	244566	245597	-							MG_205	1032		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	244566	245597	-	AAC71423.1			heat-inducible transcription repressor HrcA, putative			MG_205	1032	343	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	245633	247426	+							MG_206	1794		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	245633	247426	+	AAC71424.1			excinuclease ABC, C subunit			MG_206	1794	597	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	247407	247910	+							MG_207	504		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	247407	247910	+	AAC71425.1			Ser/Thr protein phosphatase family protein			MG_207	504	167	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	247903	248493	-							MG_208	591		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	247903	248493	-	AAC71426.1			glycoprotease family protein			MG_208	591	196	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	248477	249403	-							MG_209	927		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	248477	249403	-	AAC71427.1			pseudouridine synthase, RluA family			MG_209	927	308	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	249403	249948	-							MG_210	546		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	249403	249948	-	AAC71428.1			signal peptidase II			MG_210	546	181	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	250149	250808	+							MG_480	660		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	250149	250808	+	AAC71429.1			conserved hypothetical protein			MG_480	660	219	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	250808	250996	+							MG_481	189		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	250808	250996	+	ABC59631.1			30S ribosomal protein S21			MG_481	189	62	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	250998	251441	+							MG_211	444		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	250998	251441	+	AAC71430.1			conserved hypothetical protein			MG_211	444	147	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	251444	251788	+					acpS		MG_482	345		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	251444	251788	+	AAC71438.1			holo-(acyl-carrier-protein) synthase	acpS		MG_482	345	114	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	251781	252587	+							MG_212	807		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	251781	252587	+	AAC71431.1			1-acyl-sn-glycerol-3-phosphate acyltransferase, putative			MG_212	807	268	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	252580	253995	+					scpA		MG_213	1416		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	252580	253995	+	AAC71432.1			segregation and condensation protein A	scpA		MG_213	1416	471	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	253979	254602	+							MG_214	624		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	253979	254602	+	AAC71433.1			segregation and condensation protein B			MG_214	624	207	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	254621	255592	+					pfk		MG_215	972		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	254621	255592	+	AAC71434.1			6-phosphofructokinase	pfk		MG_215	972	323	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	255595	257121	+					pyk		MG_216	1527		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	255595	257121	+	AAC71435.1			pyruvate kinase	pyk		MG_216	1527	508	
+gene	tRNA	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	257158	257234	+							MG_483	77		
+tRNA		GCA_000027325.1	Primary Assembly	chromosome		L43967.2	257158	257234	+				tRNA-Cys			MG_483	77		
+gene	tRNA	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	257269	257345	+							MG_484	77		
+tRNA		GCA_000027325.1	Primary Assembly	chromosome		L43967.2	257269	257345	+				tRNA-Pro			MG_484	77		
+gene	tRNA	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	257349	257425	+							MG_485	77		
+tRNA		GCA_000027325.1	Primary Assembly	chromosome		L43967.2	257349	257425	+				tRNA-Met			MG_485	77		
+gene	tRNA	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	257445	257521	+							MG_486	77		
+tRNA		GCA_000027325.1	Primary Assembly	chromosome		L43967.2	257445	257521	+				tRNA-Met			MG_486	77		
+gene	tRNA	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	257559	257650	+							MG_487	92		
+tRNA		GCA_000027325.1	Primary Assembly	chromosome		L43967.2	257559	257650	+				tRNA-Ser			MG_487	92		
+gene	tRNA	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	257664	257740	+							MG_488	77		
+tRNA		GCA_000027325.1	Primary Assembly	chromosome		L43967.2	257664	257740	+				tRNA-Met			MG_488	77		
+gene	tRNA	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	257742	257815	+							MG_489	74		
+tRNA		GCA_000027325.1	Primary Assembly	chromosome		L43967.2	257742	257815	+				tRNA-Asp			MG_489	74		
+gene	tRNA	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	257818	257893	+							MG_490	76		
+tRNA		GCA_000027325.1	Primary Assembly	chromosome		L43967.2	257818	257893	+				tRNA-Phe			MG_490	76		
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	258041	259159	+							MG_217	1119		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	258041	259159	+	AAC71436.1			proline-rich P65 protein			MG_217	1119	372	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	259177	264594	+					hmw2		MG_218	5418		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	259177	264594	+	AAC71437.1			HMW2 cytadherence accessory protein	hmw2		MG_218	5418	1805	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	264597	265637	+							MG_491	1041		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	264597	265637	+	AAC71439.1			conserved hypothetical protein			MG_491	1041	346	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	265597	266043	+							MG_219	447		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	265597	266043	+	AAC71440.1			hypothetical protein			MG_219	447	148	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	266075	266356	-							MG_220	282		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	266075	266356	-	AAC71441.2			conserved hypothetical protein			MG_220	282	93	
+gene	tRNA	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	266423	266499	+							MG_492	77		
+tRNA		GCA_000027325.1	Primary Assembly	chromosome		L43967.2	266423	266499	+				tRNA-Arg			MG_492	77		
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	266666	267091	+					mraZ		MG_221	426		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	266666	267091	+	AAC71442.2			mraZ protein	mraZ		MG_221	426	141	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	267081	268010	+							MG_222	930		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	267081	268010	+	AAC71443.1			S-adenosyl-methyltransferase MraW			MG_222	930	309	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	268012	269247	+							MG_223	1236		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	268012	269247	+	AAC71444.1			conserved hypothetical protein			MG_223	1236	411	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	269250	270359	+					ftsZ		MG_224	1110		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	269250	270359	+	AAC71445.1			cell division protein FtsZ	ftsZ		MG_224	1110	369	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	270405	271874	+							MG_225	1470		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	270405	271874	+	AAC71446.1			amino acid-polyamine-organocation (APC) permease family protein			MG_225	1470	489	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	271840	273318	+							MG_226	1479		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	271840	273318	+	AAC71447.2			amino acid-polyamine-organocation (APC) permease family protein			MG_226	1479	492	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	273790	274653	+					thyA		MG_227	864		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	273790	274653	+	AAC71448.1			thymidylate synthase	thyA		MG_227	864	287	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	274653	275135	+					dhfR		MG_228	483		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	274653	275135	+	AAC71449.1			dihydrofolate reductase	dhfR		MG_228	483	160	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	275141	276163	+					nrdF		MG_229	1023		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	275141	276163	+	AAC71450.1			ribonucleoside-diphosphate reductase, beta chain	nrdF		MG_229	1023	340	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	276167	276628	+					nrdI		MG_230	462		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	276167	276628	+	AAC71451.1			nrdI protein	nrdI		MG_230	462	153	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	276647	278812	+					nrdE		MG_231	2166		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	276647	278812	+	AAC71452.1			ribonucleoside-diphosphate reductase, alpha chain	nrdE		MG_231	2166	721	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	278905	279207	+					rplU		MG_232	303		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	278905	279207	+	AAC71453.1			ribosomal protein L21	rplU		MG_232	303	100	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	279200	279499	+							MG_233	300		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	279200	279499	+	AAC71454.1			conserved hypothetical protein			MG_233	300	99	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	279492	279806	+					rpmA		MG_234	315		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	279492	279806	+	AAC71455.1			ribosomal protein L27	rpmA		MG_234	315	104	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	279799	280674	+							MG_235	876		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	279799	280674	+	AAC71456.1			apurinic endonuclease (APN1)			MG_235	876	291	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	280664	281086	+							MG_236	423		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	280664	281086	+	AAC71457.1			expressed protein of unknown function			MG_236	423	140	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	281079	281963	+							MG_237	885		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	281079	281963	+	AAC71458.1			conserved hypothetical protein			MG_237	885	294	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	281993	283327	+					tig		MG_238	1335		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	281993	283327	+	AAC71459.1			trigger factor	tig		MG_238	1335	444	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	283396	285783	+					lon		MG_239	2388		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	283396	285783	+	AAC71460.1			ATP-dependent protease La	lon		MG_239	2388	795	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	285780	286832	-							MG_240	1053		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	285780	286832	-	AAC71461.2			nicotinamide-nucleotide adenylyltransferase/conserved hypothetical protein			MG_240	1053	350	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	286885	288747	+							MG_241	1863		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	286885	288747	+	AAC71462.1			conserved hypothetical protein			MG_241	1863	620	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	288753	290645	+							MG_242	1893		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	288753	290645	+	AAC71463.1			expressed protein of unknown function			MG_242	1893	630	
+gene	pseudogene	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	290648	291328	+							MG_243	681		pseudo
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	291334	293445	+							MG_244	2112		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	291334	293445	+	AAC71464.1			UvrD/REP helicase			MG_244	2112	703	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	293448	293945	+							MG_245	498		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	293448	293945	+	AAC71465.1			5-formyltetrahydrofolate cyclo-ligase, putative			MG_245	498	165	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	293938	294783	+							MG_246	846		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	293938	294783	+	AAC71466.1			Ser/Thr protein phosphatase family protein			MG_246	846	281	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	294767	295486	-							MG_247	720		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	294767	295486	-	AAC71467.1			membrane protein, putative			MG_247	720	239	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	295473	296129	-							MG_248	657		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	295473	296129	-	AAC71468.1			conserved hypothetical protein			MG_248	657	218	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	296113	297606	-					rpoD		MG_249	1494		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	296113	297606	-	AAC71469.1			RNA polymerase sigma factor RpoD	rpoD		MG_249	1494	497	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	297651	299474	-							MG_250	1824		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	297651	299474	-	AAC71470.1			DNA primase			MG_250	1824	607	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	299464	300804	-					glyS		MG_251	1341		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	299464	300804	-	AAC71471.1			glycyl-tRNA synthetase	glyS		MG_251	1341	446	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	300824	301552	-							MG_252	729		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	300824	301552	-	AAC71472.1			RNA methyltransferase, TrmH family, group 3			MG_252	729	242	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	301555	302841	-					cysS		MG_253	1287		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	301555	302841	-	AAC71473.1			cysteinyl-tRNA synthetase	cysS		MG_253	1287	428	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	302846	304825	-					ligA		MG_254	1980		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	302846	304825	-	AAC71474.1			DNA ligase, NAD-dependent	ligA		MG_254	1980	659	
+gene	tRNA	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	304892	304965	-							MG_493	74		
+tRNA		GCA_000027325.1	Primary Assembly	chromosome		L43967.2	304892	304965	-				tRNA-Gly			MG_493	74		
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	305001	306098	+							MG_255	1098		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	305001	306098	+	AAC71475.1			conserved hypothetical protein			MG_255	1098	365	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	306202	306654	+							MG_494	453		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	306202	306654	+	AAC71480.2			conserved hypothetical protein			MG_494	453	150	
+gene	tRNA	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	306617	306691	+							MG_495	75		
+tRNA		GCA_000027325.1	Primary Assembly	chromosome		L43967.2	306617	306691	+				tRNA-Arg			MG_495	75		
+gene	tRNA	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	306740	306813	+							MG_496	74		
+tRNA		GCA_000027325.1	Primary Assembly	chromosome		L43967.2	306740	306813	+				tRNA-Trp			MG_496	74		
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	306821	307591	+							MG_256	771		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	306821	307591	+	AAC71476.1			conserved hypothetical protein			MG_256	771	256	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	307637	307930	+					rpmE		MG_257	294		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	307637	307930	+	AAC71477.1			ribosomal protein L31	rpmE		MG_257	294	97	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	307930	309009	+					prfA		MG_258	1080		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	307930	309009	+	AAC71478.1			peptide chain release factor 1	prfA		MG_258	1080	359	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	309010	310380	+							MG_259	1371		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	309010	310380	+	AAC71479.1			modification methylase, HemK family			MG_259	1371	456	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	310511	312808	+							MG_260	2298		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	310511	312808	+	AAC71481.1			lipoprotein, putative			MG_260	2298	765	
+gene	tRNA	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	315301	315377	-							MG_497	77		
+tRNA		GCA_000027325.1	Primary Assembly	chromosome		L43967.2	315301	315377	-				tRNA-Arg			MG_497	77		
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	315701	318325	+					polC-2		MG_261	2625		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	315701	318325	+	AAC71482.1			DNA polymerase III, alpha subunit	polC-2		MG_261	2625	874	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	318332	319207	+							MG_262	876		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	318332	319207	+	AAC71483.1			5'-3' exonuclease, putative			MG_262	876	291	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	319207	320061	+					mutM		MG_498	855		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	319207	320061	+	AAC71484.1			formamidopyrimidine-DNA glycosylase	mutM		MG_498	855	284	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	320177	321052	+							MG_263	876		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	320177	321052	+	AAC71485.1			Cof-like hydrolase			MG_263	876	291	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	321046	321642	+							MG_264	597		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	321046	321642	+	AAC71486.1			dephospho-CoA kinase			MG_264	597	198	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	321578	322414	-							MG_265	837		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	321578	322414	-	AAC71487.1			Cof-like hydrolase			MG_265	837	278	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	322433	324811	-					leuS		MG_266	2379		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	322433	324811	-	AAC71488.1			leucyl-tRNA synthetase	leuS		MG_266	2379	792	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	324812	325159	-							MG_267	348		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	324812	325159	-	AAC71489.1			conserved hypothetical protein			MG_267	348	115	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	325193	325879	-							MG_268	687		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	325193	325879	-	AAC71490.1			conserved hypothetical protein			MG_268	687	228	
+gene	misc_RNA	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	325924	326006	-					ffs		MG_0001	83		
+misc_RNA		GCA_000027325.1	Primary Assembly	chromosome		L43967.2	325924	326006	-				signal recognition particle 4.5S RNA	ffs		MG_0001	83		
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	326030	327052	-							MG_269	1023		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	326030	327052	-	AAC71491.1			conserved hypothetical protein			MG_269	1023	340	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	327433	328443	-							MG_270	1011		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	327433	328443	-	AAC71492.1			lipoyltransferase/lipoate-protein ligase, putative			MG_270	1011	336	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	328454	329827	-					lpdA		MG_271	1374		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	328454	329827	-	AAC71493.1			dihydrolipoamide dehydrogenase	lpdA		MG_271	1374	457	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	329831	330985	-					pdhC		MG_272	1155		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	329831	330985	-	AAC71494.1			dihydrolipoamide acetyltransferase	pdhC		MG_272	1155	384	
+gene	misc_RNA	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	331034	331215	-							MG_0002	182		
+misc_RNA		GCA_000027325.1	Primary Assembly	chromosome		L43967.2	331034	331215	-				MG170 RNA			MG_0002	182		
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	331235	332215	-					pdhB		MG_273	981		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	331235	332215	-	AAC71495.1			pyruvate dehydrogenase component E1, beta subunit	pdhB		MG_273	981	326	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	332233	333309	-					pdhA		MG_274	1077		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	332233	333309	-	AAC71496.1			pyruvate dehydrogenase component E1, alpha subunit	pdhA		MG_274	1077	358	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	333337	334773	-					nox		MG_275	1437		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	333337	334773	-	AAC71497.2			NADH oxidase	nox		MG_275	1437	478	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	334856	335398	-					apt		MG_276	543		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	334856	335398	-	AAC71498.1			adenine phosphoribosyltransferase	apt		MG_276	543	180	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	335412	338324	-							MG_277	2913		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	335412	338324	-	AAC71499.1			membrane protein, putative			MG_277	2913	970	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	338367	340529	+					relA		MG_278	2163		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	338367	340529	+	AAC71500.1			GTP pyrophosphokinase	relA		MG_278	2163	720	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	340526	341182	-							MG_279	657		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	340526	341182	-	AAC71501.1			expressed protein of unknown function			MG_279	657	218	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	341175	341972	-							MG_280	798		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	341175	341972	-	AAC71502.2			conserved hypothetical protein			MG_280	798	265	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	342033	343703	-							MG_281	1671		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	342033	343703	-	AAC71503.1			conserved hypothetical protein			MG_281	1671	556	
+gene	tRNA	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	343884	343957	-							MG_499	74		
+tRNA		GCA_000027325.1	Primary Assembly	chromosome		L43967.2	343884	343957	-				tRNA-Gly			MG_499	74		
+gene	tRNA	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	343965	344050	-							MG_500	86		
+tRNA		GCA_000027325.1	Primary Assembly	chromosome		L43967.2	343965	344050	-				tRNA-Leu			MG_500	86		
+gene	tRNA	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	344051	344125	-							MG_501	75		
+tRNA		GCA_000027325.1	Primary Assembly	chromosome		L43967.2	344051	344125	-				tRNA-Lys			MG_501	75		
+gene	tRNA	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	344172	344246	-							MG_502	75		
+tRNA		GCA_000027325.1	Primary Assembly	chromosome		L43967.2	344172	344246	-				tRNA-Gln			MG_502	75		
+gene	tRNA	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	344251	344337	-							MG_503	87		
+tRNA		GCA_000027325.1	Primary Assembly	chromosome		L43967.2	344251	344337	-				tRNA-Tyr			MG_503	87		
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	344365	344850	-					greA		MG_282	486		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	344365	344850	-	AAC71504.1			transcription elongation factor GreA	greA		MG_282	486	161	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	345182	346633	+					proS		MG_283	1452		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	345182	346633	+	AAC71505.1			prolyl-tRNA synthetase	proS		MG_283	1452	483	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	346854	347252	+							MG_284	399		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	346854	347252	+	AAC71506.1			conserved hypothetical protein			MG_284	399	132	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	347215	348258	+							MG_285	1044		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	347215	348258	+	AAC71507.1			conserved hypothetical protein			MG_285	1044	347	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	348261	348851	+							MG_286	591		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	348261	348851	+	AAC71508.1			conserved hypothetical protein			MG_286	591	196	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	348883	349137	+							MG_287	255		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	348883	349137	+	AAC71509.1			acyl carrier protein, putative			MG_287	255	84	
+gene	tRNA	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	349128	349202	+							MG_504	75		
+tRNA		GCA_000027325.1	Primary Assembly	chromosome		L43967.2	349128	349202	+				tRNA-Sec			MG_504	75		
+gene	pseudogene	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	351791	353035	-							MG_288	1245		pseudo
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	354024	355130	+							MG_289	1107		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	354024	355130	+	AAC71510.1			phosphonate ABC transporter, substrate binding protein (P37), putative			MG_289	1107	368	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	355120	355857	+							MG_290	738		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	355120	355857	+	AAC71511.1			phosphonate ABC transporter, ATP-binding protein, putative			MG_290	738	245	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	355847	357478	+							MG_291	1632		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	355847	357478	+	AAC71512.1			phosphonate ABC transporter, permease protein (P69), putative			MG_291	1632	543	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	357475	357891	-							MG_505	417		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	357475	357891	-	AAC71518.1			conserved hypothetical protein			MG_505	417	138	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	357891	360593	-					alaS		MG_292	2703		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	357891	360593	-	AAC71513.1			alanyl-tRNA synthetase	alaS		MG_292	2703	900	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	360651	361385	-							MG_293	735		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	360651	361385	-	AAC71514.1			glycerophosphoryl diester phosphodiesterase family protein			MG_293	735	244	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	361378	362802	-							MG_294	1425		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	361378	362802	-	AAC71515.1			major facilitator superfamily protein, putative			MG_294	1425	474	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	362920	364023	-					trmU		MG_295	1104		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	362920	364023	-	AAC71516.1			tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase	trmU		MG_295	1104	367	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	364026	364415	-							MG_296	390		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	364026	364415	-	AAC71517.1			conserved hypothetical protein			MG_296	390	129	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	364535	365575	-					ftsY		MG_297	1041		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	364535	365575	-	AAC71519.1			signal recognition particle-docking protein FtsY	ftsY		MG_297	1041	346	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	365582	368530	-					smc		MG_298	2949		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	365582	368530	-	AAC71520.1			chromosome segregation protein SMC	smc		MG_298	2949	982	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	368733	369695	-					pta		MG_299	963		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	368733	369695	-	AAC71521.1			phosphate acetyltransferase	pta		MG_299	963	320	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	369713	370948	-					pgk		MG_300	1236		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	369713	370948	-	AAC71522.2			phosphoglycerate kinase	pgk		MG_300	1236	411	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	370950	371963	-					gap		MG_301	1014		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	370950	371963	-	AAC71523.1			glyceraldehyde-3-phosphate dehydrogenase, type I	gap		MG_301	1014	337	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	371994	372947	-							MG_302	954		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	371994	372947	-	AAC71524.1			metal ion ABC transporter, permease protein, putative			MG_302	954	317	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	372926	373999	-							MG_303	1074		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	372926	373999	-	AAC71525.1			metal ion ABC transporter, ATP-binding protein, putative			MG_303	1074	357	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	373981	374793	-							MG_304	813		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	373981	374793	-	AAC71526.2			metal ion ABC transporter, ATP binding protein, putative			MG_304	813	270	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	374919	376706	-					dnaK		MG_305	1788		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	374919	376706	-	AAC71527.1			chaperone protein DnaK	dnaK		MG_305	1788	595	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	376794	377975	-							MG_306	1182		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	376794	377975	-	AAC71528.1			membrane protein, putative			MG_306	1182	393	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	377975	381508	-							MG_307	3534		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	377975	381508	-	AAC71529.1			lipoprotein, putative			MG_307	3534	1177	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	381493	382725	-							MG_308	1233		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	381493	382725	-	AAC71530.1			ATP-dependent RNA helicase, DEAD/DEAH box family			MG_308	1233	410	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	382732	386409	-							MG_309	3678		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	382732	386409	-	AAC71531.2			lipoprotein, putative			MG_309	3678	1225	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	386463	387269	+							MG_310	807		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	386463	387269	+	AAC71532.1			hydrolase, alpha/beta fold family			MG_310	807	268	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	387276	387893	-					rpsD		MG_311	618		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	387276	387893	-	AAC71533.1			ribosomal protein S4	rpsD		MG_311	618	205	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	387916	391335	-					hmw1		MG_312	3420		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	387916	391335	-	AAC71534.1			HMW1 cytadherence accessory protein	hmw1		MG_312	3420	1139	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	391395	392258	-							MG_313	864		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	391395	392258	-	AAC71535.1			membrane protein, putative			MG_313	864	287	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	392303	393634	-							MG_314	1332		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	392303	393634	-	AAC71536.1			conserved hypothetical protein			MG_314	1332	443	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	393658	394551	-							MG_315	894		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	393658	394551	-	AAC71537.1			DNA polymerase III, delta subunit, putative			MG_315	894	297	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	394475	395584	-							MG_316	1110		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	394475	395584	-	AAC71538.1			ComEC/Rec2-related protein			MG_316	1110	369	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	395625	397424	-					hmw3		MG_317	1800		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	395625	397424	-	AAC71539.1			HMW3 cytadherence accessory protein	hmw3		MG_317	1800	599	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	397439	398281	-					p32		MG_318	843		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	397439	398281	-	AAC71540.1			P32 adhesin	p32		MG_318	843	280	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	398298	398834	-							MG_319	537		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	398298	398834	-	AAC71541.1			conserved hypothetical protein			MG_319	537	178	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	398938	399798	-							MG_320	861		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	398938	399798	-	AAC71542.1			membrane protein, putative			MG_320	861	286	
+gene	tRNA	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	399868	399958	+							MG_506	91		
+tRNA		GCA_000027325.1	Primary Assembly	chromosome		L43967.2	399868	399958	+				tRNA-Ser			MG_506	91		
+gene	tRNA	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	399960	400048	+							MG_507	89		
+tRNA		GCA_000027325.1	Primary Assembly	chromosome		L43967.2	399960	400048	+				tRNA-Ser			MG_507	89		
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	400119	402923	-							MG_321	2805		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	400119	402923	-	AAC71543.1			lipoprotein, putative			MG_321	2805	934	
+gene	tRNA	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	403134	403218	-							MG_508	85		
+tRNA		GCA_000027325.1	Primary Assembly	chromosome		L43967.2	403134	403218	-				tRNA-Leu			MG_508	85		
+gene	tRNA	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	403224	403299	-							MG_509	76		
+tRNA		GCA_000027325.1	Primary Assembly	chromosome		L43967.2	403224	403299	-				tRNA-Lys			MG_509	76		
+gene	tRNA	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	403306	403381	-							MG_510	76		
+tRNA		GCA_000027325.1	Primary Assembly	chromosome		L43967.2	403306	403381	-				tRNA-Thr			MG_510	76		
+gene	tRNA	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	403383	403458	-							MG_511	76		
+tRNA		GCA_000027325.1	Primary Assembly	chromosome		L43967.2	403383	403458	-				tRNA-Val			MG_511	76		
+gene	tRNA	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	403467	403541	-							MG_512	75		
+tRNA		GCA_000027325.1	Primary Assembly	chromosome		L43967.2	403467	403541	-				tRNA-Thr			MG_512	75		
+gene	tRNA	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	403544	403620	-							MG_513	77		
+tRNA		GCA_000027325.1	Primary Assembly	chromosome		L43967.2	403544	403620	-				tRNA-Glu			MG_513	77		
+gene	tRNA	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	403627	403701	-							MG_514	75		
+tRNA		GCA_000027325.1	Primary Assembly	chromosome		L43967.2	403627	403701	-				tRNA-Asn			MG_514	75		
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	403723	405399	-							MG_322	1677		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	403723	405399	-	AAC71544.1			potassium uptake protein, TrkH family, putative			MG_322	1677	558	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	405456	406139	+							MG_323	684		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	405456	406139	+	AAC71545.1			potassium uptake protein, TrkA family			MG_323	684	227	
+gene	misc_RNA	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	406142	406519	-					rnpB		MG_0003	378		
+misc_RNA		GCA_000027325.1	Primary Assembly	chromosome		L43967.2	406142	406519	-				catalytic subunit of RNAse P	rnpB		MG_0003	378		
+gene	misc_RNA	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	406542	406929	+					ssrA		MG_0004	388		
+misc_RNA		GCA_000027325.1	Primary Assembly	chromosome		L43967.2	406542	406929	+				10Sa RNA	ssrA		MG_0004	388		
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	406975	407784	-							MG_515	810		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	406975	407784	-	AAC71548.1			conserved hypothetical protein			MG_515	810	269	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	407729	408793	-							MG_324	1065		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	407729	408793	-	AAC71546.1			metallopeptidase family M24 aminopeptidase			MG_324	1065	354	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	408793	408954	-					rpmG		MG_325	162		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	408793	408954	-	AAC71547.1			ribosomal protein L33	rpmG		MG_325	162	53	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	408971	409858	-							MG_326	888		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	408971	409858	-	AAC71550.1			degV family protein			MG_326	888	295	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	409871	410677	-							MG_327	807		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	409871	410677	-	AAC71551.1			hydrolase, alpha/beta fold family			MG_327	807	268	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	410664	412934	-							MG_328	2271		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	410664	412934	-	AAC71552.1			conserved hypothetical protein			MG_328	2271	756	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	412973	414319	-					engA		MG_329	1347		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	412973	414319	-	AAC71553.1			GTP-binding protein engA	engA		MG_329	1347	448	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	414323	414976	-					cmk		MG_330	654		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	414323	414976	-	AAC71554.1			cytidylate kinase	cmk		MG_330	654	217	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	414985	415623	-							MG_331	639		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	414985	415623	-	AAC71555.1			conserved hypothetical protein			MG_331	639	212	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	415611	416330	-							MG_332	720		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	415611	416330	-	AAC71556.1			expressed protein of unknown function			MG_332	720	239	
+gene	pseudogene	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	416337	416930	-							MG_333	594		pseudo
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	416967	419480	-					valS		MG_334	2514		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	416967	419480	-	AAC71557.1			valyl-tRNA synthetase	valS		MG_334	2514	837	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	419470	420045	-							MG_335	576		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	419470	420045	-	AAC71558.1			GTP-binding protein engB, putative			MG_335	576	191	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	420053	420274	-							MG_516	222		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	420053	420274	-	AAC71560.1			hypothetical protein			MG_516	222	73	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	420333	421358	+							MG_517	1026		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	420333	421358	+	AAC71559.1			glycosyl transferase, group 2 family protein			MG_517	1026	341	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	421467	422693	+							MG_336	1227		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	421467	422693	+	AAC71561.1			aminotransferase, class V			MG_336	1227	408	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	422697	423113	+							MG_337	417		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	422697	423113	+	AAC71562.1			conserved hypothetical protein			MG_337	417	138	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	423100	426912	-							MG_338	3813		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	423100	426912	-	AAC71563.2			lipoprotein, putative			MG_338	3813	1270	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	427090	428112	-					recA		MG_339	1023		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	427090	428112	-	AAC71564.1			recA protein (recombinase A)	recA		MG_339	1023	340	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	430580	434458	-					rpoC		MG_340	3879		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	430580	434458	-	AAC71565.2			DNA-directed RNA polymerase, beta' subunit	rpoC		MG_340	3879	1292	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	434468	438640	-					rpoB		MG_341	4173		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	434468	438640	-	AAC71566.1			DNA-directed RNA polymerase, beta subunit	rpoB		MG_341	4173	1390	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	438730	439236	-							MG_342	507		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	438730	439236	-	AAC71567.1			NADPH-dependent FMN reductase domain protein			MG_342	507	168	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	439315	440355	-							MG_343	1041		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	439315	440355	-	AAC71568.1			conserved hypothetical protein			MG_343	1041	346	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	440359	441180	-							MG_344	822		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	440359	441180	-	AAC71569.1			hydrolase, alpha/beta fold family			MG_344	822	273	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	441191	443878	-					ileS		MG_345	2688		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	441191	443878	-	AAC71570.2			isoleucyl-tRNA synthetase	ileS		MG_345	2688	895	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	443922	444422	+							MG_346	501		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	443922	444422	+	AAC71571.1			RNA methyltransferase, TrmH family, group 2			MG_346	501	166	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	444413	445045	+							MG_347	633		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	444413	445045	+	AAC71572.1			tRNA (guanine-N(7)-)-methyltransferase			MG_347	633	210	
+gene	tRNA	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	445078	445153	+							MG_518	76		
+tRNA		GCA_000027325.1	Primary Assembly	chromosome		L43967.2	445078	445153	+				tRNA-His			MG_518	76		
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	445197	446165	-							MG_348	969		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	445197	446165	-	AAC71573.1			lipoprotein, putative			MG_348	969	322	
+gene	tRNA	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	446178	446265	-							MG_519	88		
+tRNA		GCA_000027325.1	Primary Assembly	chromosome		L43967.2	446178	446265	-				tRNA-Leu			MG_519	88		
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	446576	447790	+							MG_349	1215		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	446576	447790	+	AAC71574.1			conserved hypothetical protein			MG_349	1215	404	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	447790	448725	+							MG_350	936		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	447790	448725	+	AAC71575.1			expressed protein of unknown function			MG_350	936	311	
+gene	tRNA	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	448783	448864	+							MG_520	82		
+tRNA		GCA_000027325.1	Primary Assembly	chromosome		L43967.2	448783	448864	+				tRNA-Leu			MG_520	82		
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	448943	449617	-							MG_521	675		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	448943	449617	-	AAC71586.1			membrane protein, putative			MG_521	675	224	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	449665	450219	+					ppa		MG_351	555		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	449665	450219	+	AAC71576.1			inorganic pyrophosphatase	ppa		MG_351	555	184	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	450222	450722	+					recU		MG_352	501		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	450222	450722	+	AAC71577.1			recombination protein U	recU		MG_352	501	166	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	450719	451048	-							MG_353	330		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	450719	451048	-	AAC71578.1			DNA-binding protein HU, putative			MG_353	330	109	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	451197	451610	+							MG_354	414		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	451197	451610	+	AAC71579.1			conserved hypothetical protein			MG_354	414	137	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	451613	453757	-					clpB		MG_355	2145		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	451613	453757	-	AAC71580.1			ATP-dependent Clp protease, ATPase subunit	clpB		MG_355	2145	714	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	453911	454753	-							MG_356	843		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	453911	454753	-	AAC71581.1			choline/ethanolamine kinase, putative			MG_356	843	280	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	454766	455947	-					ackA		MG_357	1182		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	454766	455947	-	AAC71582.1			acetate kinase	ackA		MG_357	1182	393	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	456755	457372	+					ruvA		MG_358	618		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	456755	457372	+	AAC71583.2			Holliday junction DNA helicase	ruvA		MG_358	618	205	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	457347	458270	+					ruvB		MG_359	924		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	457347	458270	+	AAC71584.1			Holliday junction DNA helicase RuvB	ruvB		MG_359	924	307	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	458260	459495	-							MG_360	1236		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	458260	459495	-	AAC71585.1			ImpB/MucB/SamB family protein			MG_360	1236	411	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	459615	460103	+							MG_361	489		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	459615	460103	+	AAC71587.1			ribosomal protein L10			MG_361	489	162	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	460126	460494	+					rplL		MG_362	369		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	460126	460494	+	AAC71588.1			ribosomal protein L7/L12	rplL		MG_362	369	122	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	460497	460670	+					rpmF		MG_363	174		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	460497	460670	+	AAC71589.1			ribosomal protein L32	rpmF		MG_363	174	57	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	460685	460951	-							MG_522	267		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	460685	460951	-	AAC71590.1			ribosomal protein S20			MG_522	267	88	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	461015	461689	+							MG_364	675		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	461015	461689	+	AAC71591.1			expressed protein of unknown function			MG_364	675	224	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	461682	462617	+							MG_365	936		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	461682	462617	+	AAC71592.1			methionyl-tRNA formyltransferase			MG_365	936	311	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	462619	464622	+							MG_366	2004		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	462619	464622	+	AAC71593.1			conserved hypothetical protein			MG_366	2004	667	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	464646	465434	-					rnc		MG_367	789		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	464646	465434	-	AAC71594.1			ribonuclease III	rnc		MG_367	789	262	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	465424	466410	-					plsX		MG_368	987		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	465424	466410	-	AAC71595.1			fatty acid/phospholipid synthesis protein PlsX	plsX		MG_368	987	328	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	466410	468083	-							MG_369	1674		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	466410	468083	-	AAC71596.1			DAK2 phosphatase domain protein			MG_369	1674	557	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	468152	469123	-							MG_370	972		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	468152	469123	-	AAC71597.1			pseudouridine synthase, RluA family			MG_370	972	323	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	469110	470084	-							MG_371	975		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	469110	470084	-	AAC71598.1			DHH family protein			MG_371	975	324	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	470077	471234	-							MG_372	1158		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	470077	471234	-	AAC71599.1			thiamine biosynthesis/tRNA modification protein ThiI			MG_372	1158	385	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	471221	472066	-							MG_373	846		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	471221	472066	-	AAC71600.1			conserved hypothetical protein			MG_373	846	281	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	472067	472891	-							MG_374	825		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	472067	472891	-	AAC71601.1			conserved hypothetical protein			MG_374	825	274	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	472884	474578	-					thrS		MG_375	1695		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	472884	474578	-	AAC71602.1			threonyl-tRNA synthetase	thrS		MG_375	1695	564	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	474578	474892	-							MG_376	315		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	474578	474892	-	AAC71603.1			conserved hypothetical protein			MG_376	315	104	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	474898	475479	-							MG_377	582		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	474898	475479	-	AAC71604.1			conserved hypothetical protein			MG_377	582	193	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	475526	477139	-					argS		MG_378	1614		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	475526	477139	-	AAC71605.1			arginyl-tRNA synthetase	argS		MG_378	1614	537	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	477168	479006	+					gidA		MG_379	1839		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	477168	479006	+	AAC71606.1			glucose-inhibited division protein A	gidA		MG_379	1839	612	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	478999	479577	+							MG_380	579		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	478999	479577	+	AAC71607.1			methyltransferase GidB			MG_380	579	192	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	479570	480226	+							MG_381	657		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	479570	480226	+	AAC71608.1			conserved hypothetical protein			MG_381	657	218	
+gene	tRNA	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	480240	480315	-							MG_523	76		
+tRNA		GCA_000027325.1	Primary Assembly	chromosome		L43967.2	480240	480315	-				tRNA-Arg			MG_523	76		
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	480691	481332	+					udk		MG_382	642		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	480691	481332	+	AAC71609.1			uridine kinase	udk		MG_382	642	213	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	481329	482075	-							MG_383	747		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	481329	482075	-	AAC71610.1			NH(3)-dependent NAD+ synthetase, putative			MG_383	747	248	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	482068	483369	-					obg		MG_384	1302		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	482068	483369	-	AAC71611.1			GTPase1 Obg	obg		MG_384	1302	433	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	483369	483818	-							MG_524	450		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	483369	483818	-	AAC71616.1			conserved hypothetical protein			MG_524	450	149	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	483989	484699	-							MG_385	711		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	483989	484699	-	AAC71612.1			glycerophosphoryl diester phosphodiesterase family protein			MG_385	711	236	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	484702	489552	-					p200		MG_386	4851		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	484702	489552	-	AAC71613.1			P200 protein	p200		MG_386	4851	1616	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	489839	490711	-					era		MG_387	873		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	489839	490711	-	AAC71614.1			GTP-binding protein Era	era		MG_387	873	290	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	490699	491163	-							MG_388	465		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	490699	491163	-	AAC71615.2			expressed protein of unknown function			MG_388	465	154	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	491147	491530	-							MG_389	384		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	491147	491530	-	AAC71617.1			conserved hypothetical protein			MG_389	384	127	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	491534	493516	-							MG_390	1983		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	491534	493516	-	AAC71618.1			ABC transporter, ATP-binding/permease protein			MG_390	1983	660	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	493624	494967	-							MG_391	1344		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	493624	494967	-	AAC71619.1			cytosol aminopeptidase			MG_391	1344	447	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	494984	496615	-					groL		MG_392	1632		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	494984	496615	-	AAC71620.2			chaperonin GroEL	groL		MG_392	1632	543	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	496628	496960	-					groES		MG_393	333		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	496628	496960	-	AAC71621.1			chaperonin, 10 kDa (GroES)	groES		MG_393	333	110	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	497086	498306	-					glyA		MG_394	1221		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	497086	498306	-	AAC71622.1			serine hydroxymethyltransferase	glyA		MG_394	1221	406	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	498316	499890	-							MG_395	1575		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	498316	499890	-	AAC71623.1			lipoprotein, putative			MG_395	1575	524	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	500261	500719	-					rpiB		MG_396	459		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	500261	500719	-	AAC71624.1			ribose 5-phosphate isomerase B	rpiB		MG_396	459	152	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	500720	502420	-							MG_397	1701		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	500720	502420	-	AAC71625.1			conserved hypothetical protein			MG_397	1701	566	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	502422	502823	-					atpC		MG_398	402		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	502422	502823	-	AAC71626.1			ATP synthase F1, epsilon subunit	atpC		MG_398	402	133	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	502828	504258	-					atpD		MG_399	1431		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	502828	504258	-	AAC71627.1			ATP synthase F1, beta subunit	atpD		MG_399	1431	476	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	504260	505099	-					atpG		MG_400	840		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	504260	505099	-	AAC71628.1			ATP synthase F1, gamma subunit	atpG		MG_400	840	279	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	505099	506655	-					atpA		MG_401	1557		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	505099	506655	-	AAC71629.1			ATP synthase F1, alpha subunit	atpA		MG_401	1557	518	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	506671	507201	-					atpH		MG_402	531		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	506671	507201	-	AAC71630.1			ATP synthase F1, delta subunit	atpH		MG_402	531	176	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	507194	507820	-					atpF		MG_403	627		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	507194	507820	-	AAC71631.1			ATP synthase F0, B subunit	atpF		MG_403	627	208	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	507823	508131	-					atpE		MG_404	309		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	507823	508131	-	AAC71632.1			ATP synthase F0, C subunit	atpE		MG_404	309	102	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	508134	509012	-					atpB		MG_405	879		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	508134	509012	-	AAC71633.1			ATP synthase F0, A subunit	atpB		MG_405	879	292	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	508978	509454	-							MG_406	477		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	508978	509454	-	AAC71634.2			conserved hypothetical protein			MG_406	477	158	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	509460	510836	-					eno		MG_407	1377		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	509460	510836	-	AAC71635.1			enolase	eno		MG_407	1377	458	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	510903	511376	+					msrA		MG_408	474		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	510903	511376	+	AAC71636.1			methionine-S-sulfoxide reductase	msrA		MG_408	474	157	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	511373	512050	-							MG_409	678		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	511373	512050	-	AAC71637.1			phosphate transport system regulatory protein PhoU, putative			MG_409	678	225	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	512053	513042	-					pstB		MG_410	990		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	512053	513042	-	AAC71638.1			phosphate ABC transporter, ATP-binding protein	pstB		MG_410	990	329	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	513027	514991	-							MG_411	1965		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	513027	514991	-	AAC71639.1			phosphate ABC transporter, permease protein PstA			MG_411	1965	654	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	514991	516124	-							MG_412	1134		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	514991	516124	-	AAC71640.1			phosphate ABC transporter, substrate-binding protein			MG_412	1134	377	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	516245	519355	-							MG_414	3111		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	516245	519355	-	AAC71641.1			conserved hypothetical protein			MG_414	3111	1036	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	519420	521414	-							MG_525	1995		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	519420	521414	-	ABC59634.1			conserved hypothetical protein			MG_525	1995	664	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	521470	521868	-					rpsI		MG_417	399		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	521470	521868	-	AAC71643.1			ribosomal protein S9	rpsI		MG_417	399	132	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	521874	522314	-					rplM		MG_418	441		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	521874	522314	-	AAC71644.1			ribosomal protein L13	rplM		MG_418	441	146	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	522352	524145	-							MG_419	1794		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	522352	524145	-	AAC71650.2			DNA polymerase III, subunit gamma and tau			MG_419	1794	597	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	524151	527015	-					uvrA		MG_421	2865		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	524151	527015	-	AAC71645.1			excinuclease ABC, A subunit	uvrA		MG_421	2865	954	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	526987	529494	-							MG_422	2508		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	526987	529494	-	AAC71646.1			conserved hypothetical protein			MG_422	2508	835	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	529532	531217	-							MG_423	1686		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	529532	531217	-	AAC71647.1			conserved hypothetical protein			MG_423	1686	561	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	531220	531480	-					rpsO		MG_424	261		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	531220	531480	-	AAC71648.1			ribosomal protein S15	rpsO		MG_424	261	86	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	531669	533018	+							MG_425	1350		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	531669	533018	+	AAC72446.1			ATP-dependent RNA helicase, DEAD/DEAH box family			MG_425	1350	449	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	533041	533235	+					rpmB		MG_426	195		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	533041	533235	+	AAC72447.1			ribosomal protein L28	rpmB		MG_426	195	64	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	533271	533696	+							MG_427	426		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	533271	533696	+	AAC72448.1			OsmC-like protein			MG_427	426	141	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	533807	534322	+							MG_428	516		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	533807	534322	+	AAC72449.1			LuxR bacterial regulatory protein, putative			MG_428	516	171	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	534319	536037	-					ptsI		MG_429	1719		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	534319	536037	-	AAC72450.1			phosphoenolpyruvate-protein phosphotransferase	ptsI		MG_429	1719	572	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	536041	537564	-					gpmI		MG_430	1524		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	536041	537564	-	AAC72451.2			2,3-bisphosphoglycerate-independent phosphoglycerate mutase	gpmI		MG_430	1524	507	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	537557	538291	-					tpiA		MG_431	735		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	537557	538291	-	AAC72452.1			triosephosphate isomerase	tpiA		MG_431	735	244	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	538351	539547	-							MG_432	1197		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	538351	539547	-	AAC72453.1			membrane protein, putative			MG_432	1197	398	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	539633	540529	+					tsf		MG_433	897		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	539633	540529	+	AAC72454.1			translation elongation factor Ts	tsf		MG_433	897	298	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	540510	541241	+					pyrH		MG_434	732		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	540510	541241	+	AAC72455.1			uridylate kinase	pyrH		MG_434	732	243	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	541241	541792	+					frr		MG_435	552		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	541241	541792	+	AAC72456.1			ribosome recycling factor	frr		MG_435	552	183	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	541793	542986	+					cdsA		MG_437	1194		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	541793	542986	+	AAC72458.2			phosphatidate cytidylyltransferase	cdsA		MG_437	1194	397	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	543006	544157	+							MG_438	1152		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	543006	544157	+	AAC72457.1			type I restriction modification DNA specificity domain protein			MG_438	1152	383	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	544562	545380	-							MG_439	819		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	544562	545380	-	AAC72459.1			lipoprotein, putative			MG_439	819	272	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	545380	546156	-							MG_440	777		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	545380	546156	-	AAC72460.1			lipoprotein, putative			MG_440	777	258	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	546299	546709	-							MG_441	411		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	546299	546709	-	AAC72461.1			conserved hypothetical protein			MG_441	411	136	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	546880	547692	-							MG_442	813		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	546880	547692	-	AAC72462.1			GTP-binding conserved hypothetical protein			MG_442	813	270	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	547664	548851	-							MG_443	1188		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	547664	548851	-	AAC72463.1			membrane protein, putative			MG_443	1188	395	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	548867	549226	-					rplS		MG_444	360		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	548867	549226	-	AAC72464.1			ribosomal protein L19	rplS		MG_444	360	119	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	549210	549905	-					trmD		MG_445	696		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	549210	549905	-	AAC72465.1			tRNA (guanine-N1)-methyltransferase	trmD		MG_445	696	231	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	549905	550192	-					rpsP		MG_446	288		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	549905	550192	-	AAC72466.2			ribosomal protein S16	rpsP		MG_446	288	95	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	550803	552446	-							MG_447	1644		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	550803	552446	-	AAC72467.1			membrane protein, putative			MG_447	1644	547	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	552447	552899	-					msrB		MG_448	453		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	552447	552899	-	AAC72468.1			methionine-R-sulfoxide reductase	msrB		MG_448	453	150	
+gene	pseudogene	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	552863	553548	-							MG_449	686		pseudo
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	553558	554430	-							MG_450	873		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	553558	554430	-	AAC72470.2			degV family protein			MG_450	873	290	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	554430	555614	-					tuf		MG_451	1185		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	554430	555614	-	AAC72471.1			translation elongation factor Tu	tuf		MG_451	1185	394	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	555667	556452	+							MG_452	786		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	555667	556452	+	AAC72472.1			membrane protein, putative			MG_452	786	261	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	556437	557315	+					galU		MG_453	879		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	556437	557315	+	AAC72473.1			UTP-glucose-1-phosphate uridylyltransferase	galU		MG_453	879	292	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	557305	557772	-							MG_454	468		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	557305	557772	-	AAC72474.1			OsmC-like protein			MG_454	468	155	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	557759	558949	+					tyrS		MG_455	1191		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	557759	558949	+	AAC72475.2			tyrosyl-tRNA synthetase	tyrS		MG_455	1191	396	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	558939	559943	-							MG_456	1005		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	558939	559943	-	AAC72476.1			conserved hypothetical protein			MG_456	1005	334	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	560496	562604	-					ftsH		MG_457	2109		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	560496	562604	-	AAC72477.1			ATP-dependent metalloprotease FtsH	ftsH		MG_457	2109	702	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	562782	563309	-					hpt		MG_458	528		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	562782	563309	-	AAC72478.1			hypoxanthine phosphoribosyltransferase	hpt		MG_458	528	175	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	563311	563820	-							MG_459	510		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	563311	563820	-	AAC72479.1			conserved hypothetical protein			MG_459	510	169	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	563993	564931	+					ldh		MG_460	939		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	563993	564931	+	AAC72480.1			L-lactate dehydrogenase/malate dehydrogenase	ldh		MG_460	939	312	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	564928	566205	-							MG_461	1278		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	564928	566205	-	AAC72481.2			HD domain protein			MG_461	1278	425	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	566186	567640	-					gltX		MG_462	1455		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	566186	567640	-	AAC72482.1			glutamyl-tRNA synthetase	gltX		MG_462	1455	484	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	567627	568406	-							MG_463	780		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	567627	568406	-	AAC72483.1			dimethyladenosine transferase			MG_463	780	259	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	568399	569556	-							MG_464	1158		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	568399	569556	-	AAC72484.1			membrane protein, putative			MG_464	1158	385	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	569528	569914	-					rnpA		MG_465	387		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	569528	569914	-	AAC72485.1			ribonuclease P protein component	rnpA		MG_465	387	128	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	569883	570029	-					rpL34		MG_466	147		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	569883	570029	-	AAC72486.1			ribosomal protein L34	rpL34		MG_466	147	48	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	570055	570990	-							MG_467	936		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	570055	570990	-	AAC72487.1			ABC transporter, ATP-binding protein			MG_467	936	311	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	570994	576345	-							MG_468	5352		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	570994	576345	-	AAC72488.1			ABC transporter, permease protein			MG_468	5352	1783	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	576351	577205	-							MG_526	855		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	576351	577205	-	AAC72489.1			ABC transporter, ATP-binding protein			MG_526	855	284	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	577268	578581	-							MG_469	1314		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	577268	578581	-	AAC72490.1			chromosomal replication initiator protein DnaA			MG_469	1314	437	
+gene	protein_coding	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	579224	580033	-							MG_470	810		
+CDS	with_protein	GCA_000027325.1	Primary Assembly	chromosome		L43967.2	579224	580033	-	AAC72491.1			CobQ/CobB/MinD/ParA nucleotide binding domain			MG_470	810	269	
